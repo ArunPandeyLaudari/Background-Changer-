@@ -1,0 +1,55 @@
+body{
+    padding: 50px;
+    margin:0px;
+     background-color:rgb(44, 180, 137);
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+   
+}
+
+img{
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    padding-left: 530px;
+}
+
+p{
+     
+    font-size: 18px;
+    text-align: justify;
+}
+
+#color{
+    text-align: right;
+
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#white{
+    background-color: #fff;
+
+}
+
+#yellow{
+ background-color: yellow;
+}
+
+#blue{
+background-color: blue;
+}
+
+#plum{
+background-color: plum;
+}
